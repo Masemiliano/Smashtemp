@@ -1,4 +1,4 @@
-# SMASHTEMP
+![Smashtemp](https://github.com/Qweq07/Smashtemp/blob/main/Logga.png)
 Smashtemp is a game about smashing, exploring and building.
 
 ## The main functions
