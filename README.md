@@ -6,4 +6,3 @@ You are on a planet in the solar system Temposi. Cool exotic plants can be found
 You can explore forever thanks to the infinite, seed-based terrain.
 Smash the plants to get important resources.
 You can build roads of glido to get around thrice as fast.
-You can find small openings to underground caves, where you can walk down.
